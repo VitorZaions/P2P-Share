@@ -1,0 +1,9 @@
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\bin\Release\P2PRedes.exe
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\bin\Release\P2PRedes.pdb
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\obj\x86\Release\P2PRedes.Form1.resources
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\obj\x86\Release\P2PRedes.Properties.Resources.resources
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\obj\x86\Release\P2PRedes.csproj.GenerateResource.Cache
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\obj\x86\Release\P2PRedes.csproj.CoreCompileInputs.cache
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\obj\x86\Release\P2PRedes.exe
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\obj\x86\Release\P2PRedes.pdb
+C:\TrabalhosMarcosLucas\REDES\P2PRedes\P2PRedes\obj\x86\Release\P2PRedes.csprojResolveAssemblyReference.cache
